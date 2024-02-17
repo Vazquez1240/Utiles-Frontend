@@ -1,0 +1,16 @@
+.section{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.formulario-home{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario2{
+    padding-bottom: 3rem;
+}

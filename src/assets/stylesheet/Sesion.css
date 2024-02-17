@@ -1,0 +1,27 @@
+.container-sesion-error{
+    width: 100%;
+    margin-top: 10rem;
+    box-sizing: border-box;
+}
+
+.content-sesion-error{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.content-sesion-error h2{
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
+.content-sesion-error p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #006d77;
+    font-size: 25px;
+}

@@ -1,0 +1,27 @@
+.lista-opciones-escolares{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.lista-opciones-escolares select{
+    width: 60%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.20);
+    padding: 24px;
+    border: none;
+    outline-color: #6278F7;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.lista-opciones-escolares input{
+    width: 60%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.20);
+    padding: 24px;
+    margin-bottom: 10px;
+    border: none;
+    outline-color: #6278F7;
+    font-size: 16px;
+}

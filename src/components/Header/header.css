@@ -1,0 +1,66 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo{
+    padding-left: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    width: 15%;
+}
+.link-titulo{
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    padding-right: 3rem;
+    width: 10%;
+}
+
+
+.btn-buscador{
+    padding-right: 3rem;
+    width: 63%;
+}
+.btn button{
+    width: 7rem;
+    height: 2rem;
+    cursor: pointer;
+    border: none;
+}
+
+.container-header{
+    display: flex;
+    justify-content: space-between;
+}
+.container-header .close-sesion{
+    border: none;
+    width: 15%;
+    border-radius: .65rem;
+    cursor: pointer;
+}
+.container-header .buscador{
+    width: 90%;
+    display: flex;
+}
+
+.container-header .buscador button{
+    border: none;
+    width: 10%;
+    height: 100%;
+    border-radius: .65rem;
+    cursor: pointer;
+}
+
+.container-header .buscador input{
+    width: 40%;
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    outline-color: #6278F7;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    box-sizing: border-box;
+}

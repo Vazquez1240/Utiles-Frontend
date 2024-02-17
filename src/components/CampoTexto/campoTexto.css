@@ -1,0 +1,35 @@
+.campo-texto{
+    margin: 15px 0;
+    font-family: 'Montserrat', sans-serif;
+    width: 60%;
+}
+
+.campo-texto label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    display: block;
+    font-weight: 600;
+    margin-bottom: .40rem;
+}
+
+.campo-texto .no-punteado{
+    width: 100%;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.13);
+    border: none;
+    padding: 30px 20px;
+    outline-color: #6278F7;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.campo-texto .punteado{
+    width: 100%;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.13);
+    border: 2.25px dotted black;
+    padding: 30px 20px;
+    font-size: 16px;
+    outline: none;
+    box-sizing: border-box;
+}

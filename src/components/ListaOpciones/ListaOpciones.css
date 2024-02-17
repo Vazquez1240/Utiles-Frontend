@@ -1,0 +1,13 @@
+.lista-opciones{
+    width: 60%;
+}
+
+.lista-opciones select{
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.20);
+    padding: 24px;
+    border: none;
+    outline-color: #6278F7;
+    font-size: 16px;
+}

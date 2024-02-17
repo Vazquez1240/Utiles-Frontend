@@ -1,0 +1,35 @@
+.contenedor-registro{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.formulario-registro{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario-registro h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+}
+.container-exito{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content-exito{
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.content-exito p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
