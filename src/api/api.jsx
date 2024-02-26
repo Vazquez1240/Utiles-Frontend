@@ -42,7 +42,7 @@ export const buscar_municipio = async (setData) => {
 
 // Para poder hacer las peticiones a mi back 
 export const api = axios.create({
-    baseURL: 'http://localhost:8000/'
+    baseURL: 'https://utiles-backend-production.up.railway.app/'
 })
 
 export const login = async (url, usuario) => {
