@@ -51,6 +51,7 @@ export const login = async (url, usuario) => {
         return respuesta
 
     }catch (error){
+        console.log(error)
         throw error;
     }
 
